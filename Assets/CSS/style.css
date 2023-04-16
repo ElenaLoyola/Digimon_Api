@@ -1,0 +1,36 @@
+body {
+    background: rgb(255,255,255);
+    background: linear-gradient(180deg, rgba(255,255,255,1) 0%, rgba(255,255,255,1) 56%, rgba(175,255,148,1) 100%);
+}
+.digiSelected {
+    margin: 2%;
+}
+.opcionDigi {
+    margin: 2%;
+    background-image: url(../Img/tablet-768x1024.jpg);
+    height: 600px;
+    background-repeat: no-repeat;
+    background-size: contain;
+}
+.opcionDigi h2 {
+    text-shadow: 2px 2px #ee7d21;
+}
+.btn {
+    background-color: #d64c0c;
+}
+.card {
+    background-color: transparent;
+    height: 400px;
+    border-color: transparent;
+    box-shadow: none;
+}
+#nombre {
+    text-shadow: 2px 2px #778ac0;
+}
+#unDigimon {
+    opacity: 0.8;
+}
+#imagen {
+    display: none;
+}
+/* #91d1fd */
